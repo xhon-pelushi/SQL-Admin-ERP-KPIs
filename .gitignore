@@ -1,0 +1,67 @@
+# Backup files
+*.bak
+*.trn
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
